@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @murillobazz
-- 👀 I’m interested in HTML, CSS, Javascript, JS frameworks such as Vue and React, and pretty much anything web/software/mobile development related. Also, UX & UI design have been high interest subjects for me recently;
-- 🌱 I’m currently learning Vue with Nuxt.js;
-- 💞️ I’m currently a front-end developer intern (working mainly with Vue/Nuxt, HTML, CSS and Javascript);
+- 👀 I’m interested in HTML, CSS, Javascript, JS frameworks such as Vue and React, and pretty much anything web/software/mobile development related.
+- 🌱 I’m currently improving my JS skills and learning React.
+- 💞️ I’m a junior front-end developer (working mainly with Vue/Nuxt, HTML, CSS and Javascript);
 - 📫 How to reach me: murillobazilio@gmail.com and linkedin.com/in/murillobazilio/
 
 <!---
