@@ -3,7 +3,7 @@
 ### 🙋‍♂️ About me:
 
   - 💞️ I’m a junior front-end developer (working mainly with Vue.js and NuxtJS).
-  - 📚 Currently learning node.js (with a little bit of PostgreSQL) and ReactJS. I'm, also, constantly reviewing and improving on my already-known languages and tools. 
+  - 📚 Currently learning node.js (with a little bit of PostgreSQL), Typescript and React. I'm, also, constantly reviewing and improving on my already-known languages and tools. 
   - 👀 I’m interested in new technologies and web development related stuff. On my personal life, I enjoy sports, mainly <a href="https://en.wikipedia.org/wiki/CR_Vasco_da_Gama#1920s:_Overcoming_social_&_class_inequality" target=_blank>football</a> and basketball, literature, arts (mostly theatre and museum/gallery exhibitions), exercising, hanging out with friends and family, travelling and meeting new places and cultures, movies, series, a little bit of anime and video games (Chrono Trigger is one of my favorites, if not the one).
   - 📫 How to reach me:
   
