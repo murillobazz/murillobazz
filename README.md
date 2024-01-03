@@ -26,7 +26,6 @@
 <br>
 <div>
   <a href="https://www.linkedin.com/in/murillobazilio/">
-  <img height=180em src="https://github-readme-stats.vercel.app/api?username=murillobazz&hide=stars,prs,issues&count_private=true&show_icons=true&theme=tokyonight&border_radius=15px">
   <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=murillobazz&theme=tokyonight&border_radius=15px&layout=compact">
 </div>
   
