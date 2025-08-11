@@ -3,8 +3,7 @@
 ### 🙋‍♂️ About me:
 
   - 💞️ I’m front-end developer (working mainly with Vue.js and NuxtJS) with 4+ years of experience.
-  - 📚 Currently studying in a UX Design postgraduate program. I'm, also, constantly reviewing and improving on my already-known languages and tools. 
-  - 👀 I’m interested in new technologies and the creative use of coding, not only in problem solving and regular web development, but mainly as artistic expression and in innovative ways.
+  - 👀 I’m interested in new technologies and the creative use of coding, not only in problem solving and regular web development, but such as an artistic expression and in innovative ways.
   - 📫 How to reach me:
   
 <div>
@@ -19,8 +18,11 @@
   <img height=40em width=40em src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img height=40em width=40em src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img height=40em width=40em src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img height=40em width=40em src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img height=40em width=40em src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />          
   <img height=40em width=40em src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   <img height=40em width=40em src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg">
+  <img height=40em width=40em src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/p5js/p5js-original.svg" />
   <img height=40em width=40em src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 </div>
 <br>
