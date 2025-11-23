@@ -2,7 +2,7 @@
 
 ### 🙋‍♂️ About me:
 
-  - 💞️ I’m front-end developer (working mainly with Vue.js and NuxtJS) with 4+ years of experience.
+  - 💞️ I’m a software developer (working mainly with Vue.js and NuxtJS) with 4+ years of experience.
   - 👀 I’m interested in new technologies and the creative use of coding, not only in problem solving and regular web development, but such as an artistic expression and in innovative ways.
   - 📫 How to reach me:
   
