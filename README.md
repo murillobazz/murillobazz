@@ -1,34 +1,15 @@
-<h3 align=center>👋 Hi, I’m Murillo, aka @murillobazz</h3>
+### hi, I'm Murillo 👋
 
-### 🙋‍♂️ About me:
+I'm a **design engineer** in Rio de Janeiro: I design interfaces and build them, and I care about the system that keeps the two in sync. Five years at [Moneri](https://moneri.com.br), from frontend dev to design engineer, plus a postgrad in UX.
 
-  - 💞️ I’m a software developer (working mainly with Vue.js and NuxtJS) with 4+ years of experience.
-  - 👀 I’m interested in new technologies and the creative use of coding, not only in problem solving and regular web development, but such as an artistic expression and in innovative ways.
-  - 📫 How to reach me:
-  
-<div>
-  <a href="https://www.linkedin.com/in/murillobazilio/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
-    <a href="mailto:murillobazilio@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
-</div>
+**→ [murillobazz.com](https://murillobazz.com)**, where the case studies live:
 
-##
+- **[a design system that starts from production code](https://murillobazz.com/work/design-system)**: extracted from a B2B dashboard, rebuilt in Figma with variables, and synced back into Vue by a Figma plugin and a code generator I wrote.
+- **[turning "how you feel" into "where to travel"](https://murillobazz.com/work/enjoy-rio)**: a quiz for Enjoy Rio with a recommendation engine I designed, built and audited with an AI agent before launch.
+- **[putting the creator's code first](https://murillobazz.com/work/marcas)**: a page that grew feature by feature, reorganized around what creators came to do. ~20% fewer support tickets.
 
+right now: taking the design system's v2 from Figma into production.
 
-<div>
-  <img height=40em width=40em src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img height=40em width=40em src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img height=40em width=40em src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img height=40em width=40em src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img height=40em width=40em src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />          
-  <img height=40em width=40em src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img height=40em width=40em src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg">
-  <img height=40em width=40em src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/p5js/p5js-original.svg" />
-  <img height=40em width=40em src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-</div>
-<br>
-<div>
-  <a href="https://www.linkedin.com/in/murillobazilio/">
-  <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=murillobazz&theme=tokyonight&border_radius=15px&layout=compact">
-</div>
-  
-  
+on the side: creative coding with p5.js and SVG (some of it pinned below, more in the [playground](https://murillobazz.com/playground)), and lately TouchDesigner and Blender.
+
+[linkedin](https://www.linkedin.com/in/murillobazilio/) · [email](mailto:murillobazilio@gmail.com)
